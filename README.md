@@ -5,7 +5,7 @@ I've been learning to code for 2 years. Started off with python, then learned so
 
 *   🌍  I'm based in Egypt
 *   ✉️  You can contact me at [mohannad.ashraf7@gmail.com](mailto:mohannad.ashraf7@gmail.com)
-*   🧠  I'm learning SQL, Python, HTML, CSS Skills<p align="left">
+*   🧠  I'm learning SQL, Python, HTML and CSS<p align="left">
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
                                 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
